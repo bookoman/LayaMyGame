@@ -3,6 +3,11 @@
 */
 class Game{
     constructor(){
+        this.init();
+    }
+
+    public init():void
+    {
 
     }
 }
