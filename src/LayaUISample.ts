@@ -65,4 +65,5 @@ function onLoaded(): void {
 	//实例UI界面
 	var testUI: TestUI = new TestUI();
 	Laya.stage.addChild(testUI);
+	new Game();
 }
