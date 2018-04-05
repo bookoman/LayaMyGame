@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 2018/04/05-18:26:52.969 9012 Reusing MANIFEST f:\MyProject\LayaBox\MyGame\.laya\chrome\Default\Download Service\EntryDB/MANIFEST-000001
+=======
+2018/04/05-18:20:13.921 16352 Reusing MANIFEST e:\MyProject\LayaBox\LayaMyGame\.laya\chrome\Default\Download Service\EntryDB/MANIFEST-000001
+2018/04/05-18:20:13.922 16352 Recovering log #3
+2018/04/05-18:20:13.922 16352 Reusing old log e:\MyProject\LayaBox\LayaMyGame\.laya\chrome\Default\Download Service\EntryDB/000003.log 
+>>>>>>> e9394f7f1941479c8a268369f207997fe76799eb

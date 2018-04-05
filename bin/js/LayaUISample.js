@@ -68,5 +68,6 @@ function onLoaded() {
     //实例UI界面
     var testUI = new TestUI();
     Laya.stage.addChild(testUI);
+    new Game();
 }
 //# sourceMappingURL=LayaUISample.js.map

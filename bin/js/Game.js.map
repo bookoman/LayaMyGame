@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"version":3,"file":"Game.js","sourceRoot":"","sources":["../../src/Game.ts"],"names":[],"mappings":"AAAA;;EAEE;AACF;IACI;QACI,IAAI,CAAC,IAAI,EAAE,CAAC;IAChB,CAAC;IAEM,mBAAI,GAAX;IAGA,CAAC;IACL,WAAC;AAAD,CAAC,AATD,IASC"}
+=======
+{"version":3,"file":"Game.js","sourceRoot":"","sources":["../../src/Game.ts"],"names":[],"mappings":"AAAA;;EAEE;AACF;IACI;QACI,IAAI,CAAC,IAAI,EAAE,CAAC;IAChB,CAAC;IACM,mBAAI,GAAX;QAEI,OAAO,CAAC,GAAG,CAAC,WAAW,CAAC,CAAA;IAC5B,CAAC;IACL,WAAC;AAAD,CAAC,AARD,IAQC"}
+>>>>>>> e9394f7f1941479c8a268369f207997fe76799eb
